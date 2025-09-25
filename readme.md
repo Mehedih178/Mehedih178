@@ -45,7 +45,7 @@ I’m passionate about **threat detection, system hardening, and automation** �
 
 ## 📂 Featured Repositories  
 
-- 🔎 [**Cybersecurity-Labs**](#) → PCAP investigations, Wireshark filters, SOC-style reports  
+- 🔎 [**Cybersecurity-Labs**](https://github.com/Mehedih178/cyb102-bec-pcap-analysis) → PCAP investigations, Wireshark filters, SOC-style reports  
 
 ---
 
