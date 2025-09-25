@@ -1,7 +1,7 @@
 # 💻 Mehedi Hassan  
 **Aspiring Cybersecurity & IT Specialist | CS @ UB | CompTIA A+ Certified | Innovator & Builder**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mehedih0928)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mehedih178)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/Mehedih178)  
 
 ---
@@ -59,7 +59,7 @@ I’m passionate about **threat detection, system hardening, and automation** �
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehedih0928)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehedih178)  
 - 📧 mehedih0928@gmail.com  
 - 🐙 [GitHub](https://github.com/Mehedih178)  
 
