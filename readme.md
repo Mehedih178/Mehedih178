@@ -10,7 +10,7 @@
 I’m **Mehedi Hassan**, a Computer Science student at the **University at Buffalo** with a strong foundation in **IT support, system administration, and cybersecurity**. My experience spans:  
 - 🎓 Academic coursework in **Data Structures, Systems, Software Engineering, and Cybersecurity**  
 - 🔧 Hands-on IT work (**CVS Shift Supervisor troubleshooting POS/printers**, **ULimo backend systems**, etc.)  
-- ✅ **CompTIA A+ Certified** (Core 1: 725, Core 2 in progress)  
+- ✅ **CompTIA A+ Certified** (Core 1: ✅, Core 2 in progress)  
 - 🛡️ Building labs in **Kali Linux, Wireshark, and VMware** to sharpen cybersecurity and networking skills  
 
 I’m passionate about **threat detection, system hardening, and automation** — and I use GitHub to share projects, experiments, and notes from my cybersecurity journey.  
