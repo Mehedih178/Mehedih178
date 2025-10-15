@@ -1,5 +1,5 @@
 # 💻 Mehedi Hassan  
-**Aspiring Cybersecurity & IT Specialist | CS @ UB | CompTIA A+ Certified | Innovator & Builder**  
+**Server Systems Analyst Intern @ National Fuel | Aspiring Cybersecurity & IT Specialist | CS @ UB | CompTIA A+ Certified | Innovator & Builder**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mehedih178)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/Mehedih178)  
