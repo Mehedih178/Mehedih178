@@ -7,13 +7,20 @@
 ---
 
 ## 👋 About Me  
-I’m **Mehedi Hassan**, a Computer Science student at the **University at Buffalo** with a strong foundation in **IT support, system administration, and cybersecurity**. My experience spans:  
-- 🎓 Academic coursework in **Data Structures, Systems, Software Engineering, and Cybersecurity**  
-- 🔧 Hands-on IT work (**CVS Shift Supervisor troubleshooting POS/printers**, **ULimo backend systems**, etc.)  
-- ✅ **CompTIA A+ Certified** (Core 1: ✅, Core 2 in progress)  
-- 🛡️ Building labs in **Kali Linux, Wireshark, and VMware** to sharpen cybersecurity and networking skills  
 
-I’m passionate about **threat detection, system hardening, and automation** — and I use GitHub to share projects, experiments, and notes from my cybersecurity journey.  
+I’m **Mehedi Hassan**, a **Computer Science student at the University at Buffalo** and a **Server Systems Analyst Intern at National Fuel**.  
+I have a strong foundation in **IT support, systems administration, and cybersecurity**, with hands-on experience in both enterprise and lab environments.  
+
+### 💼 Experience & Background  
+- **Server Systems Analyst Intern @ National Fuel** — monitoring infrastructure performance, managing system uptime, and assisting in Windows and Linux server operations.  
+- **Academic coursework:** Data Structures, Systems Programming, Software Engineering, and Cybersecurity.  
+- **Previous IT roles:** retail technology operations (**CVS**) and backend systems support (**ULimo**).  
+- **Certifications:** ✅ CompTIA A+ Certified (Core 1: ✅ | Core 2: in progress).  
+- **Labs & Tools:** Kali Linux, Wireshark, VMware, and Proxmox — practicing threat detection, network analysis, and virtualization management.  
+
+### 🚀 Passion & Goals  
+I’m passionate about **system reliability, infrastructure security, and automation**, and I use GitHub to showcase my **projects, experiments, and documentation** from my cybersecurity and systems journey.
+
 
 ---
 
