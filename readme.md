@@ -35,16 +35,22 @@ I’m passionate about **system reliability, infrastructure security, and automa
 
 ## 🔐 Cybersecurity Projects  
 
-> 🚨 Hands-on projects proving my ability to analyze, defend, and document security threats.  
+> 🚨 Hands-on projects showcasing my ability to analyze, detect, and document security incidents using real-world tools and methods.  
+
+- **FTP Directory Traversal Investigation (Off Limits)**  
+  - Simulated a **Directory Traversal attack** on a vulnerable FTP server using Bash & Node.js  
+  - Analyzed captured traffic in **Wireshark** (`server.pcapng`) to identify unauthorized file access  
+  - Discovered hidden files revealing falsified financial reports and documented findings in a SOC-style summary  
 
 - **Business Email Compromise (BEC) Investigation**  
-  - Analyzed malicious `.pcap` files with **Wireshark** to extract email payloads  
-  - Identified phishing attempts vs. legitimate traffic  
-  - Isolated attacker’s IP and documented findings in a professional SOC-style report  
+  - Analyzed malicious `.pcap` captures in **Wireshark** to extract phishing email payloads and attacker IPs  
+  - Distinguished between legitimate and malicious SMTP sessions  
+  - Delivered a professional incident report replicating SOC/Tier 1 analysis  
 
-- **Auditd & Linux Hardening Practice**  
-  - Explored **auditd** logging for Linux systems  
-  - Tested configurations to strengthen event monitoring & compliance  
+- **Linux Auditd & System Hardening Lab**  
+  - Configured and tested **auditd** rules to monitor sensitive file modifications in `/protected_files`  
+  - Automated log filtering with `ausearch` and generated (file, attack) correlations for forensic evidence  
+  - Strengthened event visibility and host-level defense for Linux environments  
 
 📌 *More projects coming soon: Malware analysis notes, Active Directory mini-lab, and incident response playbooks.*  
 
