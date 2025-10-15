@@ -44,10 +44,10 @@ I’m passionate about **threat detection, system hardening, and automation** �
 ---
 
 ## 📂 Featured Repositories  
-  **BEC PCAP ANALYSIS PROJECT**
+**BEC PCAP ANALYSIS PROJECT**
 - 🔎 [**PCAP ANALYSIS*](https://github.com/Mehedih178/cyb102-bec-pcap-analysis) → PCAP investigations, Wireshark filters, SOC-style reports
 
-  **FTP DIRECTORY TRAVERSAL INVESTIGATION**  
+**FTP DIRECTORY TRAVERSAL INVESTIGATION**  
 - 🔎 [**Off-Limits: FTP Directory Traversal**](https://github.com/Mehedih178/ftp-directory-traversal-investigation) → Simulated FTP attack, directory-traversal exploit, Wireshark forensic analysis, and a SOC-style findings summary.
   - ✅ Attack automation: `attack.sh` + `attack.js` to enumerate and fetch hidden files
   - 🧾 Forensics: `server.pcapng` analyzed in Wireshark to correlate requests with file accesses
